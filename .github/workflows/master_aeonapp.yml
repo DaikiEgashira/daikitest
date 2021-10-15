@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'aeonapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28928F57ED454461900FE483C2DD8F8B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_458150134BE24B0EA81766501F81FA23 }}
           package: .
